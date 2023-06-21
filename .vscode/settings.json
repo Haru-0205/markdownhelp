@@ -3,5 +3,5 @@
 	"editor.formatOnSave": true,
 	"editor.defaultFormatter": "esbenp.prettier-vscode",
 	"editor.bracketPairColorization.enabled": true,
-	"git.defaultBranchName": "main"
+	"git.defaultBranchName": "master"
 }
